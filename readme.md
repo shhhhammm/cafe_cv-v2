@@ -14,7 +14,7 @@
     - file9.mp4
 
 На данный момент страница сайта неготова, когда появится - добавлю сюда, если перейдем на нейросеть, тоже вероятно появятся больше файлов
-
+Видео работы программы: https://drive.google.com/file/d/1YN2McngllGmbCo5j1VkkcpVO-56_7DT4/view?usp=sharing
 ## Необходимые модули:
 `pip install opencv-python`
 `pip install numpy`
